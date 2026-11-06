@@ -19,11 +19,12 @@ Tengo experiencia en soporte TI y administración de plataformas corporativas en
 | Proyecto | Qué resuelve |
 |---|---|
 | [**Automatizador de reportes**](https://github.com/ClaudioHub-01/automatizador-reportes) | Limpia y consolida archivos de ventas en distintos formatos y genera un reporte en Excel y un resumen ejecutivo en PDF en segundos. |
+| [**Sistema de reservas web**](https://github.com/ClaudioHub-01/reservas-web) · [🔗 demo en vivo](https://claudiohub.pythonanywhere.com) | Reservas en línea con disponibilidad en tiempo real, confirmación por código y panel de administración con agenda, indicadores y exportación a Excel. |
 | [**Workspace Admin Kit**](https://github.com/ClaudioHub-01/workspace-admin-kit) | Audita Google Workspace (seguridad, licencias, Drive) con puntaje y recomendaciones, y crea usuarios en masa desde Excel con validación previa. |
 
 ### 💻 Tecnologías
 
-`Python` `pandas` `PowerShell` `Java` `C++` `Excel` `Power BI` `Google Workspace Admin` `Google APIs` `AWS`
+`Python` `pandas` `PowerShell` `Java` `C++` `Excel` `Power BI` `Google Workspace Admin` `Google APIs` `Flask` `SQLite` `JavaScript` `AWS`
 
 ### 📫 Contacto
 
